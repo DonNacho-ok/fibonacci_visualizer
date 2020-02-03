@@ -1,0 +1,6 @@
+/root/Desktop/lagash university/ejercicios/fibonacci/fibonacci/fibonacci/bin/Debug/fibonacci.exe
+/root/Desktop/lagash university/ejercicios/fibonacci/fibonacci/fibonacci/bin/Debug/fibonacci.pdb
+/root/Desktop/lagash university/ejercicios/fibonacci/fibonacci/fibonacci/obj/x86/Debug/fibonacci.csprojAssemblyReference.cache
+/root/Desktop/lagash university/ejercicios/fibonacci/fibonacci/fibonacci/obj/x86/Debug/fibonacci.csproj.CoreCompileInputs.cache
+/root/Desktop/lagash university/ejercicios/fibonacci/fibonacci/fibonacci/obj/x86/Debug/fibonacci.exe
+/root/Desktop/lagash university/ejercicios/fibonacci/fibonacci/fibonacci/obj/x86/Debug/fibonacci.pdb
